@@ -1,7 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1000&color=FF7400&width=435&lines=Competitive+Programming+Enjoyer;Intermediate+Full+Stack+Developer;Machine+Learning+Beginner)](https://git.io/typing-svg)
 [![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://github.com/JedizR)
-<h1 align="center">こんにちは👋, I'm Natakorn Wannaboworn</h1>
-<h3 align="center">a high school senior who obsessed with coding, reading, latte, chocolate, cats.</h3>
+
+<h1 align="center"><img height="40" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=FF7400&center=true&vCenter=true&repeat=false&width=500&height=25&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%F0%9F%91%8B%2C+I'm+Natakorn+Wannaboworn"></h1>
+<!-- <h1 align="center">こんにちは👋, I'm Natakorn Wannaboworn</h1> -->
+<h3 align="center">A high school senior who obsessed with coding, reading, latte, chocolate, cats.</h3>
 <img align="right" alt="Coding" width="40%" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952fbcb7a0d160c824a747b31bb1fef187e2dcf0f3e&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedizr&label=Profile%20views&color=0e75b6&style=flat" alt="jedizr" /> </p>
