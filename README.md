@@ -64,10 +64,10 @@
   <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" height="193" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr" alt="jedizr" /></p>
+<p><img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=codeSTACKr" alt="jedizr" /></p>
 
-<p>&nbsp;<img align="center" height="193" src="https://github-readme-stats.vercel.app/api?username=jedizr&theme=codeSTACKr&show_icons=true" /></p>
+<p>&nbsp;<img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=jedizr&theme=codeSTACKr&show_icons=true" /></p>
 
-<p><img align="left" height="330" src="https://github-readme-streak-stats.herokuapp.com/?user=jedizr&theme=codeSTACKr" alt="jedizr" /></p>
+<p><img align="left" height="309" src="https://github-readme-streak-stats.herokuapp.com/?user=jedizr&theme=codeSTACKr" alt="jedizr" /></p>
 
 <!-- <p>&nbsp;<img align="center" height="300" src="https://github-readme-stats.vercel.app/api/wakatime?username=JedizR&layout=compact&theme=radical" /></p> -->
