@@ -15,13 +15,13 @@
 
 - 🤝 I’m looking for help with : **Network Security**
 
-- 👨‍💻 All of my projects are available at : [https://github.com/JedizR](https://github.com/JedizR)🔗
+- 👨‍💻 All of my projects are available at : [https://github.com/JedizR](https://github.com/JedizR)
 
 - 💬 Ask me about : **Competitive Programming, React**
 
-- 📫 How to reach me : **teenday.jedi@gmail.com**🔗
+- 📫 How to reach me : **teenday.jedi@gmail.com**
 
-- 📄 Know about my experiences : [https://jedizr.github.io/](https://jedizr.github.io/)🔗
+- 📄 Know about my experiences : [https://jedizr.github.io/](https://jedizr.github.io/)
 
 - ⚡ Fun fact : **I really love cats, but I've never had one.**
 
