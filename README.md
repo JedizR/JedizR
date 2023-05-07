@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1000&color=FF7400&width=435&lines=Competitive+Programming+Enjoyer;Intermediate+Full+Stack+Developer;Machine+Learning+Beginner)](https://git.io/typing-svg)
 [![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://github.com/JedizR)
-
-<h1 align="center"><img height="38" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=FF7400&center=true&vCenter=true&repeat=false&width=500&height=50&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%F0%9F%91%8B%2C+I'm+Natakorn+Wannaboworn."></h1>
-<!-- <h1 align="center">こんにちは👋, I'm Natakorn Wannaboworn</h1> -->
-<h3 align="center">A high school senior who obsessed with coding, reading, latte, chocolate, cats.</h3>
+<h1 align="center">こんにちは👋, I'm Natakorn Wannaboworn</h1>
+<h3 align="center">a high school senior who obsessed with coding, reading, latte, chocolate, cats.</h3>
 <img align="right" alt="Coding" width="40%" src="https://media2.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif?cid=6c09b952fbcb7a0d160c824a747b31bb1fef187e2dcf0f3e&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jedizr&label=Profile%20views&color=0e75b6&style=flat" alt="jedizr" /> </p>
@@ -28,8 +26,7 @@
 
 - ⚡ Fun fact : **I really love cats, but I've never had one.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=2000&color=FF7400&vCenter=true&width=435&height=50&lines=Connect+with+me:)](https://git.io/typing-svg)
-<!-- <h3 align="left">Connect with me:</h3> -->
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jed1zl2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jed1zl2" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jedizr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jedizr" height="30" width="40" /></a>
@@ -41,8 +38,7 @@
 <a href="https://discord.gg/jedizR#8429" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jedizR#8429" height="30" width="40" /></a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=2000&color=FF7400&vCenter=true&width=435&height=50&lines=Languages+and+Tools:)](https://git.io/typing-svg)
-<!-- <h3 align="left">Languages and Tools:</h3> -->
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <!--   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
