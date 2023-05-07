@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=4000&pause=1000&color=FF7400&width=435&lines=Competitive+Programming+Enjoyer;Intermediate+Full+Stack+Developer;Machine+Learning+Beginner)](https://git.io/typing-svg)
 [![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://github.com/JedizR)
 <h1 align="center">こんにちは👋, I'm Natakorn Wannaboworn</h1>
 <h3 align="center">a high school senior who obsessed with coding, reading, latte, chocolate, cats.</h3>
