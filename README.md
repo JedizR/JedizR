@@ -22,7 +22,7 @@
 
 - 📫 How to reach me : **teenday.jedi@gmail.com**
 
-- 📄 Know about my experiences : [https://jedizr.github.io/](https://jedizr.github.io/)
+- 📄 Know about my experiences : [[https://jedizr.github.io/](https://portfolio-website-jedizr.vercel.app/)]([https://jedizr.github.io/](https://portfolio-website-jedizr.vercel.app/))
 
 - ⚡ Fun fact : **I really love cats, but I've never had one.**
 
